@@ -39,7 +39,7 @@ class Corpus:
         random_word = random.choice(words)
         return random_word, self.word_occurance(random_word)
 
-    def write_unique_word_frequency(self) -> str:
+    def write_unique_word_frequency(self, name:str) -> str:
         """Writes all unique words, how often they absolutely and relatively
         occur (ordered descending as json object strings) to a given filepath, returning the absolute
         path string to the written file."""
@@ -51,9 +51,10 @@ class Corpus:
             word_dict[word] = self.word_occurance(word)
         word_dict = sorted(word_dict.items(), key=lambda x: x[1][0], reverse=True)
         
-        with open(Path('unique_word_frequency.json'), 'w') as f:
+        result = '{}.json'.format(name)
+        with open(Path(result), 'w') as f:
             json.dump(word_dict, f, indent=4)
-        return Path('unique_word_frequency.json').absolute()
+        return Path(result).absolute()
 
 
     def word_length(self) -> tuple:
