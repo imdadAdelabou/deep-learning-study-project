@@ -7,7 +7,7 @@ robots.txt
 <br/>
 ---
 <br />
-**User-Agent:** *
+**User-Agent:**
 <br />
 ## Dataset Overview:
 <ul>
