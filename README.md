@@ -1,4 +1,6 @@
 # Deep Learning study project
+**Website choice:**https://scienceblog.com/
+**Rationale:** the selected website meets all the requirements of the assignment and focuses on science.
 
 ## Dataset Overview:
 <ul>
