@@ -4,9 +4,13 @@
 
 <br />
 robots.txt
+---
 <br/>
-<br />
-** User-Agent: **
+User-Agent: *
+Disallow: /wp-content/plugins/
+
+Sitemap: https://scienceblog.com/sitemap_index.xml
+---
 
 ### Dataset Overview:
 <ul>
@@ -19,4 +23,5 @@ robots.txt
 <ul>
   <li>run pip install -r requirements.txt</li>
   <li>run start_scraping.py - # Written by Rostislav Manakov - Scraped urls and articles</li>
+  
 </ul>
