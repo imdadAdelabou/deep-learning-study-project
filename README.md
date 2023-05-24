@@ -15,7 +15,7 @@ robots.txt
   <li>Metadata: ["URL", "Category", "Author", "Date Published", "Article Title"]</li>
 </ul>
 
-1) Getting URLs, Extracting Metadata and texts
+1.) Getting URLs, Extracting Metadata and texts
 <ul>
   <li>run pip install -r requirements.txt</li>
   <li>run start_scraping.py - # Written by Rostislav Manakov - Scraped urls and articles</li>
