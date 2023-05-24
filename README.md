@@ -10,6 +10,7 @@ robots.txt
 <br />
 ## Dataset Overview:
 <ul>
-  <li>Dataset row: </li>
-  <li>Dataset context: </li>
+  <li>Dataset row: 8435</li>
+  <li>Mean context length: 765 words</li>
+  <li>Metadata: ["URL", "Category", "Author", "Date Published", "Article Title"]</li>
 </ul>
