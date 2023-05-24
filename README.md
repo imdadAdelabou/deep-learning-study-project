@@ -6,9 +6,9 @@
 robots.txt
 ---
 <br/>
-User-Agent: *
-Disallow: /wp-content/plugins/
-Sitemap: https://scienceblog.com/sitemap_index.xml
+User-Agent: * <br />
+Disallow: /wp-content/plugins/ <br />
+Sitemap: https://scienceblog.com/sitemap_index.xml <br />
 ---
 
 ### Dataset Overview:
