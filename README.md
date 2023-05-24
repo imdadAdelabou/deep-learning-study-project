@@ -4,8 +4,7 @@
 
 <br />
 robots.txt
----
-<br/>
+--- <br/>
 User-Agent: * <br />
 Disallow: /wp-content/plugins/ <br />
 Sitemap: https://scienceblog.com/sitemap_index.xml <br />
