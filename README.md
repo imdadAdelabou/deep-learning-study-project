@@ -8,7 +8,6 @@ robots.txt
 <br/>
 User-Agent: *
 Disallow: /wp-content/plugins/
-
 Sitemap: https://scienceblog.com/sitemap_index.xml
 ---
 
