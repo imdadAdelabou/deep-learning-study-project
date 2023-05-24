@@ -14,3 +14,5 @@ robots.txt
   <li>Mean context length: 765 words</li>
   <li>Metadata: ["URL", "Category", "Author", "Date Published", "Article Title"]</li>
 </ul>
+
+1) Getting URLs, Extracting Metadata and texts
