@@ -22,5 +22,17 @@ Sitemap: https://scienceblog.com/sitemap_index.xml <br />
   <li>run pip install -r requirements.txt</li>
   <li>run start_scraping.py - # Written by Rostislav Manakov - Scraped urls and articles</li>
   <li>run data_cleaner.py - # Written by Imdad Adelabou - Removes unwanted symbols from the scraped datasets texts</li>
-  <li>run data_splitter.py # Written by Rostislav Manakov - Splits the dataset into multiple files based on the games titles.</li>
+  <li>run data_splitter.py - # Written by Rostislav Manakov - Splits the dataset into multiple files based on the games titles.</li>
+</ul>
+
+2.) Creating Q&A pairs
+<ul>
+  <li>run pcreate_Q&A.py # Written by Rostislav Manakov - Creates quastion-answer pairs using: </li>
+  <li>potsawee/t5-large-generation-squad-QuestionAnswer</li>
+</ul>
+
+3.) Prepare data for Evaluation
+<ul>
+  <li>if you created Answers from medium-sized language models correctly this step may be unnecesary</li>
+  <li>run clean_dataset.py - # Written by Rostislav Manakov</li>
 </ul>
