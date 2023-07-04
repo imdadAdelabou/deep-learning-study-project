@@ -12,9 +12,9 @@ Sitemap: https://scienceblog.com/sitemap_index.xml <br />
 
 ### Dataset Overview:
 <ul>
-  <li>Dataset row: 8435</li>
-  <li>Mean context length: 765 words</li>
-  <li>Metadata: ["URL", "Category", "Author", "Date Published", "Article Title"]</li>
+  <li>Dataset row: 76290</li>
+  <li>Mean context length: 642 words</li>
+  <li>Metadata: ["URL", "Header", "Category", "Author", "Date Published", "Article Title"]</li>
 </ul>
 
 1.) Getting URLs, Extracting Metadata and texts
