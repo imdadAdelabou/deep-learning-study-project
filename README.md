@@ -27,7 +27,7 @@ Sitemap: https://scienceblog.com/sitemap_index.xml <br />
 
 2.) Creating Q&A pairs
 <ul>
-  <li>run pcreate_Q&A.py # Written by Rostislav Manakov - Creates quastion-answer pairs using: </li>
+  <li>run pcreate_Q&A.py # Written by Rostislav Manakov, Imdad Adelabou - Creates quastion-answer pairs using: </li>
   <li>potsawee/t5-large-generation-squad-QuestionAnswer</li>
 </ul>
 
