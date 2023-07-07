@@ -32,6 +32,6 @@ Sitemap: https://scienceblog.com/sitemap_index.xml <br />
 
 3.) Prepare data for Evaluation
 <ul>
-  <li>if you created Answers from medium-sized language models correctly this step may be unnecesary</li>
+  <li>if you created Answers from medium-sized language models correctly this step may be unnecesary and if you do you need to change paths in the .py file</li>
   <li>run clean_dataset.py - # Written by Rostislav Manakov</li>
 </ul>
